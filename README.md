@@ -1,4 +1,4 @@
-# Hi there, I'm João 'itsneufox' Lopes! 👋
+# Hi there, I'm itsneufox 👋
 
 - 🌟 Passionate about coding and technology
 - 💻 Programming in PAWN for SA:MP and open.mp
