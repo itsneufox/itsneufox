@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 985 530">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6f8fa;
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        isolation: isolate;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        font-family: Consolas, Consolas;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-8, .cls-9, .cls-10, .cls-14 {
+        font-size: 16px;
+      }
+
+      .cls-2, .cls-5, .cls-7, .cls-13 {
+        fill: #616e7f;
+      }
+
+      .cls-3 {
+        fill: #3fb950;
+      }
+
+      .cls-4, .cls-12 {
+        fill: #a8703b;
+      }
+
+      .cls-5 {
+        font-size: 11.7px;
+      }
+
+      .cls-7 {
+        font-size: 10.2px;
+      }
+
+      .cls-8 {
+        fill: #27499f;
+      }
+
+      .cls-9, .cls-11 {
+        fill: #231f20;
+      }
+
+      .cls-10 {
+        fill: #f85149;
+      }
+
+      .cls-11 {
+        font-size: 7.8px;
+      }
+
+      .cls-12, .cls-13 {
+        font-size: 17.1px;
+      }
+
+      .cls-14 {
+        fill: #c9d1d9;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="985" height="530" rx="15" ry="15"/>
+  <g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(389.3 46.5)"><tspan x="0" y="0">- itsneufox</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(444.5 46.8)"><tspan x="0" y="0" xml:space="preserve">      -————————————————————————————————————————————-—-</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 66.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 66.5)"><tspan x="0" y="0">OS</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(424.5 66.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-5" transform="translate(433.3 63) scale(1.4 1)"><tspan x="0" y="0" xml:space="preserve"> ........................................ </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(809 66.5)"><tspan x="0" y="0">HumanOS GenZ</tspan></text>
+      <text/>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 86.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 86.5)"><tspan x="0" y="0">Uptime</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(459.7 86.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(468.5 86.5)"><tspan x="0" y="0" xml:space="preserve"> ...................... </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(687.3 87.4)"><tspan x="0" y="0">26 years, 0 months, 3 days</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 106.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 106.5)"><tspan x="0" y="0">Host</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(442.1 106.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(450.9 106.5)"><tspan x="0" y="0" xml:space="preserve"> .............................. </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(723.6 106.5)"><tspan x="0" y="0" xml:space="preserve">  Veolia Environnement</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 126.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 126.5)"><tspan x="0" y="0">Kernel</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(459.7 126.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(468.5 126.5)"><tspan x="0" y="0" xml:space="preserve"> .................................. </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(538.8 126.5)"><tspan x="0" y="0" xml:space="preserve">                             Plant Operator</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 146.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 146.5)"><tspan x="0" y="0">IDE</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(433.3 146.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(442.1 146.5)"><tspan x="0" y="0" xml:space="preserve"> ...................................... </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(670.8 146.5)"><tspan x="0" y="0" xml:space="preserve">               VSCode 1.97.2</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 166.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 186.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 186.5)"><tspan x="0" y="0">Languages</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(486.1 186.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(494.9 186.5)"><tspan x="0" y="0">Programming</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(591.6 186.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(600.4 186.5)"><tspan x="0" y="0" xml:space="preserve"> ........... </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(662 186.5)"><tspan x="0" y="0" xml:space="preserve">       Pawn, TypeScript, C++</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 206.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 206.5)"><tspan x="0" y="0">Languages</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(486.1 206.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(494.9 206.5)"><tspan x="0" y="0">Computer</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(565.2 206.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(574 206.5)"><tspan x="0" y="0" xml:space="preserve"> ..................... </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(670.8 206.5)"><tspan x="0" y="0" xml:space="preserve">             HTML, CSS, JSON</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 226.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 226.5)"><tspan x="0" y="0">Languages</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(486.1 226.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(494.9 226.5)"><tspan x="0" y="0">Real</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(530.1 226.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(671.4 226.5)"><tspan x="0" y="0">English, Spanish, Portuguese</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 246.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 266.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 266.5)"><tspan x="0" y="0">Hobbies</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(468.5 266.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(477.3 266.5)"><tspan x="0" y="0">Software</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(547.6 266.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(556.4 266.5)"><tspan x="0" y="0" xml:space="preserve"> .... </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(609.2 266.5)"><tspan x="0" y="0" xml:space="preserve"> open.mp Private Server Development</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 286.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 286.5)"><tspan x="0" y="0">Hobbies</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(468.5 286.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(477.3 286.5)"><tspan x="0" y="0">Hardware</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(547.6 286.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(556.4 286.5)"><tspan x="0" y="0" xml:space="preserve"> .............. </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(688.4 286.5)"><tspan x="0" y="0" xml:space="preserve">  Overclocking, PC Buiding</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(389.3 327.5)"><tspan x="0" y="0">- Contact</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(468.5 327.5)"><tspan x="0" y="0" xml:space="preserve"> -——————————————————————————————————————————————-—-</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 347.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 347.5)"><tspan x="0" y="0">Email</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-14" transform="translate(450.9 347.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(459.7 347.5)"><tspan x="0" y="0">Personal</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(530.1 347.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(538.8 347.5)"><tspan x="0" y="0" xml:space="preserve"> ................... </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(731.2 347.5)"><tspan x="0" y="0">joaollfrias@gmail.com</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 367.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 367.5)"><tspan x="0" y="0">Email</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-14" transform="translate(450.9 367.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(459.7 367.5)"><tspan x="0" y="0">Personal</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(530.1 367.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(538.8 367.5)"><tspan x="0" y="0" xml:space="preserve"> ....................... </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(732.4 367.5)"><tspan x="0" y="0" xml:space="preserve">    ajuda@tntsamp.com</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-13" transform="translate(389.3 390.8)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-12" transform="translate(408.1 390.8)"><tspan x="0" y="0">Discord</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(473.5 389.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-7" transform="translate(477.1 390.2) scale(1.6 1)"><tspan x="0" y="0" xml:space="preserve"> ...................................... </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(820.3 390.5)"><tspan x="0" y="0" xml:space="preserve">  itsneufox</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(389.3 428.5)"><tspan x="0" y="0">- GitHub Stats</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(512.5 428.5)"><tspan x="0" y="0" xml:space="preserve"> -—————————————————————————————————————————-—-</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 448.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 448.5)"><tspan x="0" y="0">Repos</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(450.9 448.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(459.7 448.5)"><tspan x="0" y="0" xml:space="preserve"> .... </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(512.5 448.5)"><tspan x="0" y="0">28</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(530.1 448.5)"><tspan x="0" y="0" xml:space="preserve"> {</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(547.6 448.5)"><tspan x="0" y="0">Contributed</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(644.4 448.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(662 448.5)"><tspan x="0" y="0" xml:space="preserve"> 5</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(688.4 448.5)"><tspan x="0" y="0">} |</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(723.6 448.5)"><tspan x="0" y="0">Stars</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(767.6 448.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(776.4 448.5)"><tspan x="0" y="0" xml:space="preserve"> ........... </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(890.7 448.5)"><tspan x="0" y="0" xml:space="preserve"> 17</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 468.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 468.5)"><tspan x="0" y="0">Commmits</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(477.3 468.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(486.1 468.5)"><tspan x="0" y="0" xml:space="preserve"> ................. </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(653.2 468.5)"><tspan x="0" y="0">1000</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(697.2 468.5)"><tspan x="0" y="0" xml:space="preserve"> | </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(723.6 468.5)"><tspan x="0" y="0">Followers</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(802.8 468.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(811.5 468.5)"><tspan x="0" y="0" xml:space="preserve"> ....... </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(890.7 468.5)"><tspan x="0" y="0" xml:space="preserve">  3</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(389.3 488.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-4" transform="translate(406.9 488.5)"><tspan x="0" y="0">Lines of Code on GitHub</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(609.2 488.5)"><tspan x="0" y="0">:</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(618 488.5)"><tspan x="0" y="0">.</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-8" transform="translate(635.6 488.5)"><tspan x="0" y="0">446,276</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(697.2 488.5)"><tspan x="0" y="0" xml:space="preserve"> ( </tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-3" transform="translate(723.6 488.5)"><tspan x="0" y="0">523,178</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-3" transform="translate(785.2 488.5)"><tspan x="0" y="0">++</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-14" transform="translate(802.8 488.5)"><tspan x="0" y="0">,</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-10" transform="translate(820.3 488.5)"><tspan x="0" y="0">76,902</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-10" transform="translate(873.1 488.5)"><tspan x="0" y="0">--</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-9" transform="translate(890.7 488.5)"><tspan x="0" y="0" xml:space="preserve"> )</tspan></text>
+    </g>
+    <g class="cls-6">
+      <text class="cls-2" transform="translate(539.7 227.1)"><tspan x="0" y="0" xml:space="preserve"> ........... </tspan></text>
+    </g>
+  </g>
+  <g class="cls-6">
+    <text class="cls-11" transform="translate(-77.7 45.6) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                                          .:-  :.-.:-..                             </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 55) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                                   =-.#.=.@@: % -.+-  : ...                         </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 64.4) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                              @#:#+ -@@@@@## .# %%@=@==+.=%:+..:                    </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 73.8) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                             @@#.@#@@# # @@ =+@.=@  =- #*-=:= + =                   </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 83.2) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                           @*@%=%@@#@:%.*=+ #@@@@@ .@@=-@ . #-%=#.                  </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 92.6) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                           .@%@=@@*+*@%@%*=-+@+@:%%@@@@@*#@%@. ++ .                 </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 102) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                         @@@@@@@#.%@@%@@@:@@@@-@@@@@@@@@@@:%@#=+:*:                 </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 111.4) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                          @@@@@@@%@@@@@@@@@@@@@#@@@@@@+@@**@#*=@-+:%*               </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 120.8) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                         @=@@@@@@*@#@%@@@*@a@@@@@@*@@@@@.%@@+@@@@=@...+              </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 130.2) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                          @@@@@%@@=%%%@@@@@@@@@@@**%@#* % *@@@@#+#+%==.             </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 139.6) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                         @@@@@@@@@%@***%@@@#++%@@#+@#.@@#@#@@#=#*.*#%:* :           </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 149) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                         @@@@@=++++=+=+====--=@=**#+%.%@@@@@@+@# **@.%   =          </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 158.4) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                         @@@%=--==+++++====--=+=%+**#+*@@@@@@@@#@@@ = .:@#          </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 167.8) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                         @@=----=--=============@*@@#@*++***+=- -@@-=.@#@           </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 177.1) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                         @#:-:=-=-----------=+++++*+++==:---:   -@@+:.              </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 186.5) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                         %:-::+++==+=+------:===---:-::::::--  ::@#.*               </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 195.9) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                       @%.=@@@@#@@@@%#+=-:---*=:--:::::::.: :.  :%%%#               </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 205.3) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                     @#.@#++#*##@@*@@@@%*=--=+-----:::::  . .   .*@*                </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 214.7) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                      @@=@-==+*+++#%% @@@@*+*@%##@@@*##*=:       #@                 </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 224.1) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                     %=@= =+*%@@@@@@@@%@@@@%#%@@@@@    @+=%      %-                 </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 233.5) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                     %%@ -:-=***+#@@@@%@#%*+.@@*####***+==-.=   ++                  </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 242.9) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                     *+*.--=++*****#**+@*=-**@%%@@@@@@@%#+:: *-=   .                </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 252.3) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                      %-*--===++==++=*@=-:.-@-=#@@%####*@@==-++#@#%.                </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 261.7) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                     *#---.=-==+*+++%*=-:...@.::+*****++=--= +.:+%#                 </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 271.1) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                     %--:--=*# ..#@@#+:.. :.:% ::::=----: . .. .+@*                 </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 280.5) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                     %--:----==+*==---:.   ..+*::..::.:. . =.  *.+                  </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 289.9) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                     %*-:::---=*+.....:..    .--  .::-. .=.   + .                   </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 299.3) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                     %=:::-=+++*+*#%*=:---:...-::.  --.      =                      </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 308.7) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                     %%=::-+@@@@@@@@@*:+*%%@+.  :..::..     .                       </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 318.1) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                     #*+::=@@@@@@@@@@@%@@@@@-=.  ---:.::   - .                      </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 327.5) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                      *+-::=#@%--**=-=*#@@@@@**+=-:--::   -%                        </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 336.9) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                      @+=-=--:*%#%@@+=+=--*#@@@@@#.:::..-:+                         </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 346.3) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                       %-=::.:. =++**+*##@@@%+%%@@+...:. +*                         </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 355.7) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                       %-#=:::..::.:++++=++++-+==+:::.-:@#                          </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 365.1) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                                    :::.@@+---:..-#@##+...:..:::=::-:-=%                            </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 374.5) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                              #%%+:  +@@@@#+:---+#@@@@*:......:::=:#%@@.-.                          </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 383.9) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                           *#+-:-*@@@@%*:@@@*==++#@@%%+......-+==#@@@%-  @                          </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 393.3) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                         *-+#@@@@#%#+--*-@@@@@#@@@@@%@+.-.==+%@@@@@%+    :- .:                      </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 402.7) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                        %@@@@%#+=*+*+==#@@@@@@@@@@@@@@@%#@#@@@@@@@*-:   =+-.=%-..                   </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 412.1) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                       @@@%%*+*+-:==+++@@@@@@%@@@@@@@@@@@@@@@@@@*=::.  -@#+=+*= :                   </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 421.4) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                      @@@@@@@@@@+*-*@@@@@@@@   +@@@@@@@@@@@##=::::::: =#+-**%@+-*+ . .              </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 430.8) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                      @@@@@@@@@@@##@@@@@@@@@-    .=.:... :..:....:::+@#%#+@@**-=*+- @  ..           </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 440.2) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                      @@@@@@@@@@@@@@@@@@@@@@@              . ...:-#@@%%=.=+@:-==+@@@@@%@@%%       </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 449.6) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                      @@@@@@@@@@@@@@@@@@@@@@@@=:..... .......:+@@@@@%*+@#*=#--+@@@*- =%@:=.   </tspan></text>
+    <text class="cls-11" transform="translate(-77.7 459) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%###%@@@@@@@@+:#@%+*=.=#@@%#++*-:.-.=@</tspan></text>
+    <text class="cls-11" transform="translate(-77.7 468.4) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-@@@@+-*%#@@@++= : :*- .-=%</tspan></text>
+    <text class="cls-11" transform="translate(-77.7 477.8) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-+::*%#*@+.#--%@@@@@@@@@</tspan></text>
+    <text class="cls-11" transform="translate(-77.7 487.2) scale(1.1 1)"><tspan x="0" y="0" xml:space="preserve">                      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*%*==-**#.  -+*@@@@        .</tspan></text>
+  </g>
+</svg>
