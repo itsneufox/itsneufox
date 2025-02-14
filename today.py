@@ -417,8 +417,10 @@ def perf_counter(funct, *args):
     Calculates the time it takes for a function to run
     Returns the function result and the time differential
     """
+    print(f"Starting {funct.__name__}...")  # Add this
     start = time.perf_counter()
     funct_return = funct(*args)
+    print(f"Finished {funct.__name__}")     # Add this
     return funct_return, time.perf_counter() - start
 
 
@@ -450,7 +452,7 @@ if __name__ == '__main__':
     follower_data, follower_time = perf_counter(follower_getter, USER_NAME)
 
     # several repositories that I've contributed to have since been deleted.
-    if OWNER_ID == {'id': 'MDQ6VXNlcjU3MzMxMTM0'}: # only calculate for user Andrew6rant
+    if OWNER_ID == {'id': 'MDQ6VXNlcjU3MzMxMTM0'}: # only calculate for user itsneufox
         archived_data = add_archive()
         for index in range(len(total_loc)-1):
             total_loc[index] += archived_data[index]
