@@ -9,8 +9,8 @@ open.mp Server Developer
 
 **⚙️ I use daily:** `.pawn`, `.ts`, `.js`, `.cpp`  
 **🌍 I'm mostly active within:** the SA-MP/open.mp Community  
-**🚛 Created:** Brasil Truck n' Trailers, LongWayDrivers, Pawn Painter VSCode Extension , open.monitor and PAWNCTL
-**💬 Ping me about:** PAWN scripting and server development.
+**🚛 Created:** Brasil Truck n' Trailers, LongWayDrivers, Pawn Painter VSCode Extension , open.monitor and PAWNCTL  
+**💬 Ping me about:** PAWN scripting and server development.  
 
 ---
 
